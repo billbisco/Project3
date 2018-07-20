@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FizzBuzzTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2018-07-20T17:31:41" hostname="WGC1106HM33H2" time="0.007">
+  <properties/>
+  <testcase name="whenFizzBuzzIsPassedAFiveItReturnsBuzz" classname="FizzBuzzTest" time="0.004"/>
+  <testcase name="whenFizzBuzzIsPassedAThiirtyOneItReturnsThirtyOne" classname="FizzBuzzTest" time="0.0"/>
+  <testcase name="whenFizzBuzzIsPassedATenItReturnsBuzz" classname="FizzBuzzTest" time="0.0"/>
+  <testcase name="whenFizzBuzzIsPassedAFifteenItReturnsFizzBuzz" classname="FizzBuzzTest" time="0.0"/>
+  <testcase name="whenFizzBuzzIsPassedAOneItReturnsOne" classname="FizzBuzzTest" time="0.0"/>
+  <testcase name="whenFizzBuzzIsPassedATwoItReturnsTwo" classname="FizzBuzzTest" time="0.0"/>
+  <testcase name="whenFizzBuzzIsPassedAThreeItReturnsFizz" classname="FizzBuzzTest" time="0.0"/>
+  <testcase name="whenFizzBuzzIsPassedASixItReturnsFizz" classname="FizzBuzzTest" time="0.0"/>
+  <testcase name="whenFizzBuzzIsPassedAThirtyItReturnsFizzBuzz" classname="FizzBuzzTest" time="0.0"/>
+  <system-out><![CDATA[fizz
+fizz
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
